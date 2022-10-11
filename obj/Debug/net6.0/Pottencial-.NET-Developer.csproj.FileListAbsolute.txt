@@ -1,0 +1,15 @@
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\bin\Debug\net6.0\Pottencial-.NET-Developer.exe
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\bin\Debug\net6.0\Pottencial-.NET-Developer.deps.json
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\bin\Debug\net6.0\Pottencial-.NET-Developer.runtimeconfig.json
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\bin\Debug\net6.0\Pottencial-.NET-Developer.dll
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\bin\Debug\net6.0\Pottencial-.NET-Developer.pdb
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\obj\Debug\net6.0\Pottencial-.NET-Developer.csproj.AssemblyReference.cache
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\obj\Debug\net6.0\Pottencial-.NET-Developer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\obj\Debug\net6.0\Pottencial-.NET-Developer.AssemblyInfoInputs.cache
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\obj\Debug\net6.0\Pottencial-.NET-Developer.AssemblyInfo.cs
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\obj\Debug\net6.0\Pottencial-.NET-Developer.csproj.CoreCompileInputs.cache
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\obj\Debug\net6.0\Pottencial-.NET-Developer.dll
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\obj\Debug\net6.0\refint\Pottencial-.NET-Developer.dll
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\obj\Debug\net6.0\Pottencial-.NET-Developer.pdb
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\obj\Debug\net6.0\Pottencial-.NET-Developer.genruntimeconfig.cache
+C:\Users\fmull\OneDrive\Área de Trabalho\Pottencial .NET Developer\Pottencial-.NET-Developer\Pottencial-.NET-Developer\obj\Debug\net6.0\ref\Pottencial-.NET-Developer.dll
