@@ -1,3 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Teste");
+﻿using Pottencial_.NET_Developer.Models;
+
+Pessoa p = new Pessoa();
+
+p.Nome = "Buta";
+p.Idade = 26;
+p.Apresentar();
